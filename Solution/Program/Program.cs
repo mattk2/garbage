@@ -21,6 +21,13 @@ namespace Program
              * 
              * asdf
              */
+
+            // and the second thing
+            Random rand = new Random();
+            if (rand.NextDouble() - 0.5 < 0)
+            {
+                Foo(3.14159);
+            }
         }
         
         private static void Foo(double dub)
