@@ -28,6 +28,10 @@ namespace Program
             {
                 Foo(3.14159);
             }
+            else
+            {
+                FooToo(rand.Next());
+            }
         }
         
         private static void Foo(double dub)
