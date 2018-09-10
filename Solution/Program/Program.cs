@@ -8,6 +8,14 @@ namespace Program
 {
     class Program
     {
+        /// <summary>
+        /// should only be available in the branch
+        /// </summary>
+        private static void Battle()
+        {
+            Console.WriteLine("heres a thing");
+        }
+
         static void Main(string[] args)
         {
             /*
