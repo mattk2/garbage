@@ -10,6 +10,17 @@ namespace Program
     {
         static void Main(string[] args)
         {
+            /*
+             * this is the first thing i added to main
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * asdf
+             */
         }
     }
 }
