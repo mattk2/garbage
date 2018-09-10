@@ -34,5 +34,10 @@ namespace Program
         {
             Console.WriteLine("here's the first method " + dub);
         }
+
+        private static void FooToo(int i)
+        {
+            Console.WriteLine("FooToo\t" + i);
+        }
     }
 }
