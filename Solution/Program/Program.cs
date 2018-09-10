@@ -22,5 +22,10 @@ namespace Program
              * asdf
              */
         }
+        
+        private static void Foo(double dub)
+        {
+            Console.WriteLine("here's the first method " + dub);
+        }
     }
 }
